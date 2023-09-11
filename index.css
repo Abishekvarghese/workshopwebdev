@@ -1,0 +1,30 @@
+.head {
+    text-align: center;
+    margin-top: 100px;
+    color: white;
+    font-family: monospace;
+    stroke: aliceblue;
+    text-shadow: 2px white;
+    font-style: normal;
+    font-size: larger;
+}
+.content {
+    margin-top: 80px;
+    color: white;
+    font-family: monospace;
+    font-style: italic;
+    stroke: aliceblue;
+    text-shadow: 2px white;
+
+}
+body {
+    background-image: url("Untitled (2).png");
+    background-size: cover;
+}
+p {
+    font-size: large;
+    color: white;
+    font-family: monospace;
+    text-align: center;
+    font-style: italic;
+}
